@@ -19,3 +19,4 @@ print(f'''Here is the finobacci sequence
 {s}th index to {e}th index:''')
 print(sequence)
 print('-------------------------------')
+input("Press Enter to exit...")
